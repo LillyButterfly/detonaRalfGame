@@ -9,6 +9,10 @@ Este é um jogo simples baseado no personagem Detona Ralph, criado com HTML, CSS
 Projeto desenvolvido para o bootcamp da <b>DIO</b> de jogos.
 
 
+<img src="https://github.com/LillyButterfly/detonaRalfGame/assets/88951197/19515c58-3b03-4cfa-a8df-1fe1523c4724" min-width="800px" max-width="800px" width="700px" align="center" alt="Ingrid waving">
+
+
+
 ## Como Jogar
 O objetivo do jogo é acertar os quadrados que aparecem na tela, enquanto evita erros.
 Cada vez que você acerta um quadrado, sua pontuação aumenta.
