@@ -1,0 +1,11 @@
+:root{
+  --font-family: 'Press Start 2P', cursive;
+  --secondary-font-family: 'Bebas Neue', sans-serif;
+  --primary-color: #FFFFFF;
+  --secondary-color: #c92935;
+  --bg-color: #000000f6;
+  --border-color: #000000;
+  --bg-container-img: url(../img/wall.png);
+  --enemy-img: url(../img/ralficon.svg);
+
+}
