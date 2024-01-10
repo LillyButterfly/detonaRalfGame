@@ -39,11 +39,6 @@ Sons para feedback de acertos e erros
 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou reportar problemas.
 
-### Licença
-Este projeto está licenciado sob a Licença MIT.
-
-
- 
 ### Ferramentas de Desenvolvimento
 
 <br>
